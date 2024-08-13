@@ -1,7 +1,7 @@
 <h1><img src="assets/pedro.gif" width="30"/> Wassup! Welcome to my Github!</h1>
 
 
-<p>Welcome to my page! </br> My name's Danny, a Data Scientist from <img src="assets/indonesia.png" width="13"/> <b>Surabaya, Indonesia</b>, currently Based in <b>Surabaya</b>. </p>
+<p>Welcome! </br> My name's Danny, a Data Scientist from <img src="assets/indonesia.png" width="13"/> <b>Surabaya, Indonesia</b>, currently Based in <b>Surabaya</b>. </p>
 <h3><img src="assets/bongocat_code.gif" width="25"/> Things I code with and are proficient at: </h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-4584B6?style=flat-square&logo=python&logoColor=white" />
